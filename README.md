@@ -4,7 +4,7 @@ Nama Saya Eko Budiyono seorang Web Developer.
 
 🔭 I’m currently working on <br>
 Saya seorang fresh graduate dan sedang mencari pekerjaan
-<br><br>
+<br>
 
 🌱 I’m currently learning <br>
 PHP, Laravel, MySQL, HTML, CSS, JavaScript
