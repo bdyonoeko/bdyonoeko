@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nama Saya Eko Budiyono seorang Web Developer. 
+Nama Saya Eko Budiyono seorang Junior Web Developer. 
 
 🔭 I’m currently working on <br>
 Saya seorang fresh graduate dan sedang mencari pekerjaan
