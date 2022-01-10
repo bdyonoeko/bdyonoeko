@@ -7,7 +7,7 @@ Saya seorang fresh graduate dan sedang mencari pekerjaan
 <br>
 
 🌱 I’m currently learning <br>
-PHP, Laravel, MySQL, HTML, CSS, JavaScript
+PHP, Laravel, Codeigniter, MySQL, dan Bootstrap
 
 <!-- 👯 I’m looking to collaborate on -->
 <!-- 🤔 I’m looking for help with  -->
