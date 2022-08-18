@@ -15,7 +15,8 @@ PHP, Laravel, Codeigniter, MySQL, dan Bootstrap
 
 📫 How to reach me <br>
 Instagram : <a href="https://www.instagram.com/ebudiyono675/">ebudiyono675</a> <br>
-E-Mail : bdyono.eko@gmail.com
+E-Mail : bdyono.eko@gmail.com <br>
+Gitlab : <a href="https://gitlab.com/bdyono.eko">bdyono.eko<a>
 <br><br>
 
 <!-- ⚡ Fun fact: ... -->
